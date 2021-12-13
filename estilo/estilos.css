@@ -1,0 +1,182 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color:#f2f2f2;
+}
+h1{
+	text-align: center;
+	font-family: aria-text-g2, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+h2{
+	text-align: center;
+	font-family: aria-text-g2, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+h3{
+	font-family: aria-text-g2, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+h4{
+	font-family: aria-text-g2, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-style: italic;
+	text-align: center;
+}
+h5{
+	text-align: center;
+	color: white;
+	font-family: aria-text-g2, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+p{
+	text-align: justify;
+	font-family: aria-text-g2, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+iframe{
+	border: black solid 6px;
+	border-radius: 10px;
+}
+.cabecalho{
+	background-color: #030a8c;
+	width: 100%;
+	height: 150px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	border-bottom: black solid 4px;
+	padding: 10px;
+}
+.cabecalho img{
+	padding: 2px;
+}
+.menu li{
+	display:inline-block;
+	margin: 130px 150px 120px 10px;
+}
+.menu li a{
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+	padding: 10px 15px;
+}
+.menu li a:hover{
+	background-color: black;
+	border: #040fd9 solid 3px; 
+	border-radius: 5px
+}
+.rodape{
+	background-color: #030a8c;
+	width: 100%;
+	height: 15px;
+	clear: both;
+	padding: 15px;
+	border-top: black solid 4px;
+}
+.logo{
+	width: 2px;
+	margin-right: 600px;
+}
+.text{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+#imagem_home{
+	margin: 10px 360px;
+	border: black solid 6px;
+	border-radius: 10px;
+}
+#card1{
+	float: left;
+	width: 15%;
+	padding-left: 280px;
+}
+#card1 img{
+	width: 295px;
+	border-radius: 5px;
+	border: black solid 6px;
+}
+#card2{
+	float: left;
+	width: 15%;
+	padding-left: 100px;
+}
+#card2 img{
+	width: 280px;
+	height: 205px;
+	border-radius: 5px;
+	border: black solid 6px;
+}
+#card3{
+	float: left;
+	width: 15%;
+	padding-left: 80px;
+}
+#card3 img{
+	width: 315px;
+	border-radius: 5px;
+	border: black solid 6px;
+}
+#h3_card1{
+	padding-left: 100px;
+}
+#h3_card2{
+	padding-left: 100px;
+}
+#h3_card3{
+	padding-left: 120px;
+}
+#p_1{
+	padding-left: 80px;
+}
+#p_2{
+	padding-left: 80px;
+}
+#p_3{
+	padding-left: 90px;
+	margin-bottom: 10px;
+}
+#efetividade1{
+	width: 500px;
+	margin: 10px 400px;
+	border: black solid 6px;
+	border-radius: 10px;
+}
+#efetividade2{
+	width: 300px;
+	margin: 10px 500px;
+	border: black solid 6px;
+	border-radius: 10px;
+}
+
+#influencia{
+	width: 400px;
+	margin: 10px 490px;
+	border: black solid 6px;
+	border-radius: 10px;
+}
+#influencia2{
+	width: 400px;
+	margin: 10px 490px;
+	border: black solid 6px;
+	border-radius: 10px;
+}
+#historia{
+	width: 400px;
+	margin: 10px 450px;
+	border: black solid 6px;
+	border-radius: 10px;
+}
+#video{
+	padding-left: 370px;
+}
+
